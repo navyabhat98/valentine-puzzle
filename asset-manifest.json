@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/valentine-puzzle.git/static/css/main.3db50be7.css",
+    "main.js": "/valentine-puzzle.git/static/js/main.a07303e9.js",
+    "static/js/488.13b88221.chunk.js": "/valentine-puzzle.git/static/js/488.13b88221.chunk.js",
+    "static/media/image.png": "/valentine-puzzle.git/static/media/image.8a54d9289e0313a8003b.png",
+    "static/media/heart.svg": "/valentine-puzzle.git/static/media/heart.08fcabef6a8ad28f17d2599f4a665ffa.svg",
+    "index.html": "/valentine-puzzle.git/index.html",
+    "main.3db50be7.css.map": "/valentine-puzzle.git/static/css/main.3db50be7.css.map",
+    "main.a07303e9.js.map": "/valentine-puzzle.git/static/js/main.a07303e9.js.map",
+    "488.13b88221.chunk.js.map": "/valentine-puzzle.git/static/js/488.13b88221.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3db50be7.css",
+    "static/js/main.a07303e9.js"
+  ]
+}
